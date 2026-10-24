@@ -12,13 +12,35 @@
   <a href="https://github.com/rianprei?tab=repositories"><img width="108" src="https://img.shields.io/github/stars/rianprei?affiliations=OWNER&style=flat-square&label=stars&labelColor=0A2472&color=FFD21F&logo=github&logoColor=white" alt="GitHub stars"></a>
 </p>
 
-> Comecei com CSS em 2025. Hoje porto ferramentas para o Termux, mexo no kernel do meu celular e construo tooling local para agentes de código.
+> Comecei com HTML e CSS em 2025. Hoje porto ferramentas para o Termux, mexo no kernel do meu celular e construo tooling local para agentes de código.
 
 - Frontend com React + Tailwind
 - Termux sem root, sem proot
 - Kernel e Magisk no POCO C75
 - Proxies Rust para o Claude Code
 - Tooling local para agentes de IA
+
+<details>
+<summary><b>whoami</b></summary>
+
+```console
+┌──(rian㉿cachyos)-[~]
+└─$ whoami
+Rian  ·  rianprei
+
+┌──(rian㉿cachyos)-[~]
+└─$ cat stack
+front : HTML · CSS · JavaScript · TypeScript · React · Tailwind
+os    : Ubuntu · Arch Linux · CachyOS
+alvo  : Android · Termux · Magisk · POCO C75
+repos : Rust · C · C++ · Shell · Python · Go
+
+┌──(rian㉿cachyos)-[~]
+└─$ uptime
+no GitHub desde 2025-03
+```
+
+</details>
 
 ## Destaques
 
@@ -85,28 +107,6 @@
   <img alt="Termux" src="https://img.shields.io/badge/Termux-6E7781?style=flat-square&logo=gnometerminal&logoColor=white">
   <img alt="Magisk" src="https://img.shields.io/badge/Magisk-6E7781?style=flat-square&logo=magisk&logoColor=white">
 </p>
-
-<details>
-<summary><b>whoami</b></summary>
-
-```console
-┌──(rian㉿cachyos)-[~]
-└─$ whoami
-Rian  ·  rianprei
-
-┌──(rian㉿cachyos)-[~]
-└─$ cat stack
-front : HTML · CSS · JavaScript · TypeScript · React · Tailwind
-os    : Ubuntu · Arch Linux · CachyOS
-alvo  : Android · Termux · Magisk · POCO C75
-repos : Rust · C · C++ · Shell · Python · Go
-
-┌──(rian㉿cachyos)-[~]
-└─$ uptime
-no GitHub desde 2025-03
-```
-
-</details>
 
 ## Stats
 
